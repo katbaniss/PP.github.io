@@ -1,3 +1,6 @@
-https://PP.github.io
-PP.github.io
-index.html
+git clone https://github.com/katbaniss/PP.github.io
+cd PP.github.io
+echo "Hello World" > index.html
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
