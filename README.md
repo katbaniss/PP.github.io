@@ -1,4 +1,4 @@
-git clone https://github.com/PP.github.io
+#https://github.com/PP.github.io
 cd PP.github.io
 echo "Hello World" > index.html
 git add --all
